@@ -1,0 +1,64 @@
+Day,Time of day,Type of Day,Location,Stressors,Frequency,Week,Daycount
+Monday,Morning,Weekday,Home,Household Chores,1,1,1
+Tuesday,Morning,Weekday,Home,Lack of nutrition,2,1,2
+Wednesday,Morning,Weekday,Work,Anxiety,3,1,3
+Thursday,Morning,Weekday,Home,Exam preparation,2,1,4
+Friday,Morning,Weekday,Others,Lack of nutrition,1,1,5
+Saturday,Morning,Weekend,Home,Exam preparation,1,1,6
+Sunday,Morning,Weekend,Home,Assault,3,1,7
+Monday,Afternoon,Weekday,Home,Anxiety,4,1,1
+Tuesday,Afternoon,Weekday,Work,Household Chores,2,1,2
+Wednesday,Afternoon,Weekday,Home,Assault,1,1,3
+Thursday,Afternoon,Weekday,Home,Assault,3,1,4
+Friday,Afternoon,Weekday,Work,Anxiety,1,1,5
+Saturday,Afternoon,Weekend,Home,Lack of nutrition,2,1,6
+Sunday,Afternoon,Weekend,Work,Exam preparation,1,1,7
+Monday,Evening,Weekday,Work,Household Chores,2,1,1
+Tuesday,Evening,Weekday,Home,Lack of nutrition,1,1,2
+Wednesday,Evening,Weekday,On the road,Anxiety,2,1,3
+Thursday,Evening,Weekday,Home,Assault,4,1,4
+Friday,Evening,Weekday,Home,Assault,3,1,5
+Saturday,Evening,Weekend,Work,Exam preparation,3,1,6
+Sunday,Evening,Weekend,Home,Assault,1,1,7
+Monday,Morning,Weekday,Work,Household Chores,2,2,8
+Tuesday,Morning,Weekday,On the road,Lack of nutrition,2,2,9
+Wednesday,Morning,Weekday,Work,Lack of nutrition,1,2,10
+Thursday,Morning,Weekday,Others,Lack of nutrition,3,2,11
+Friday,Morning,Weekday,Work,Anxiety,2,2,12
+Saturday,Morning,Weekend,Others,Assault,1,2,13
+Sunday,Morning,Weekend,Home,Exam preparation,2,2,14
+Monday,Afternoon,Weekday,On the road,Assault,1,2,8
+Tuesday,Afternoon,Weekday,Work,Household Chores,2,2,9
+Wednesday,Afternoon,Weekday,On the road,Lack of nutrition,2,2,10
+Thursday,Afternoon,Weekday,Home,Lack of nutrition,3,2,11
+Friday,Afternoon,Weekday,Work,Assault,1,2,12
+Saturday,Afternoon,Weekend,Work,Household Chores,1,2,13
+Sunday,Afternoon,Weekend,Home,Anxiety,3,2,14
+Monday,Evening,Weekday,Home,Lack of nutrition,4,2,8
+Tuesday,Evening,Weekday,Work,Exam preparation,1,2,9
+Wednesday,Evening,Weekday,On the road,Household Chores,1,2,10
+Thursday,Evening,Weekday,On the road,Exam preparation,2,2,11
+Friday,Evening,Weekday,Home,Lack of nutrition,2,2,12
+Saturday,Evening,Weekend,On the road,Exam preparation,3,2,13
+Sunday,Evening,Weekend,Work,Household Chores,1,2,14
+Monday,Morning,Weekday,Others,Assault,1,3,15
+Tuesday,Morning,Weekday,Work,Exam preparation,2,3,16
+Wednesday,Morning,Weekday,On the road,Household Chores,1,3,17
+Thursday,Morning,Weekday,Home,Lack of nutrition,1,3,18
+Friday,Morning,Weekday,Home,Anxiety,1,3,19
+Saturday,Morning,Weekend,On the road,Assault,1,3,20
+Sunday,Morning,Weekend,Work,Household Chores,1,3,21
+Monday,Afternoon,Weekday,Work,Household Chores,2,3,15
+Tuesday,Afternoon,Weekday,Others,Exam preparation,2,3,16
+Wednesday,Afternoon,Weekday,Others,Lack of nutrition,1,3,17
+Thursday,Afternoon,Weekday,Home,Assault,1,3,18
+Friday,Afternoon,Weekday,Work,Household Chores,1,3,19
+Saturday,Afternoon,Weekend,On the road,Exam preparation,1,3,20
+Sunday,Afternoon,Weekend,Others,Exam preparation,1,3,21
+Monday,Evening,Weekday,Work,Household Chores,1,3,15
+Tuesday,Evening,Weekday,Home,Household Chores,1,3,16
+Wednesday,Evening,Weekday,Others,Assault,1,3,17
+Thursday,Evening,Weekday,Home,Exam preparation,1,3,18
+Friday,Evening,Weekday,Work,Household Chores,2,3,19
+Saturday,Evening,Weekend,On the road,Household Chores,2,3,20
+Sunday,Evening,Weekend,On the road,Exam preparation,1,3,21

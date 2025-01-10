@@ -1,7 +1,7 @@
 This repository contains the code used to create 16 types of visualizations presented in the paper:
 
 “Momentary Stressor Logging and Reflective Visualizations: Implications for Stress Management with Wearables”
-Published in Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT).
+Published in ACM (Association of Computing Machinery) CHI conference on Human Factors in Computing Systems.
 
 Link to the paper: https://dl.acm.org/doi/10.1145/3613904.3642662
 
